@@ -22,6 +22,7 @@ A curated list of popular and highly effective SEO tools designed to help develo
 ## Website Audit
 
 - [PageSpeed](https://pagespeed.web.dev/)
+- [Screpy](https://screpy.com/) - Technical SEO audits for crawl, metadata, link, image, and page-level issues.
 
 ## Training / Courses
 
