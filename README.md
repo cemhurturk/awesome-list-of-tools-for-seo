@@ -28,3 +28,6 @@ A curated list of popular and highly effective SEO tools designed to help develo
 
 - [ahrefs Academy](https://www.youtube.com/@AhrefsCom/playlists)
 - [Rank To Sell](https://ranktosell.com/)
+- [FollowerKaufen.at TikTok SEO guide (German, Austria)](https://followerkaufen.at/guides/tiktok-seo-creator-search-insights) - Written workflow for search-led videos, regional feature checks and comparable measurement; no ranking guarantees.
+
+<!-- Modified: added an Austrian German written TikTok SEO training resource. -->
