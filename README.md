@@ -24,6 +24,9 @@ A curated list of popular and highly effective SEO tools designed to help develo
 - [PageSpeed](https://pagespeed.web.dev/)
 - [Screpy](https://screpy.com/) - Technical SEO audits for crawl, metadata, link, image, and page-level issues.
 
+- - [PDF SEO Tools](https://pdfseotools.com/) - Free online tools for PDF management, quick page-level SEO audits, and web utilities.
+
+
 ## Training / Courses
 
 - [ahrefs Academy](https://www.youtube.com/@AhrefsCom/playlists)
