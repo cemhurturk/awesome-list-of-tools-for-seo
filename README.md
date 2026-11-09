@@ -24,6 +24,10 @@ A curated list of popular and highly effective SEO tools designed to help develo
 - [PageSpeed](https://pagespeed.web.dev/)
 - [Screpy](https://screpy.com/) - Technical SEO audits for crawl, metadata, link, image, and page-level issues.
 
+## Website Traffic
+
+- [Vaneform](https://vaneform.com/) - Check any website's estimated monthly visits, traffic trend, top countries and traffic sources.
+
 ## Training / Courses
 
 - [ahrefs Academy](https://www.youtube.com/@AhrefsCom/playlists)
